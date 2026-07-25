@@ -1,0 +1,23 @@
+generated: '2026-07-18'
+method: searched
+source: https://status.cybervadis.com/
+status_page:
+  url: https://status.cybervadis.com/
+  provider: Better Stack
+  components:
+  - Login, Logout and User Management
+  - Assessment
+  - Portfolio
+  - External Attack Surface Management (EASM)
+  - API Integrations
+  - cybervadis.com
+  - help.cybervadis.com
+versioning: null
+deprecation: null
+sla: null
+notes: >-
+  Public Better Stack status page publishes per-component uptime, including an
+  "API Integrations" component (99.961% uptime observed), confirming CyberVadis
+  operates an API surface. The API itself is enterprise/contract-gated with no
+  public developer portal, OpenAPI, or SDK at the time of enrichment. No public
+  versioning or deprecation policy was found.
