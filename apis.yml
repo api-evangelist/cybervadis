@@ -42,6 +42,14 @@ tags:
 - Vendor Risk Management
 - Security Ratings
 - Governance Risk Compliance
+- Infrastructure Saas
+tags_raw:
+- Company
+- Cybersecurity
+- Third-Party Risk Management
+- Vendor Risk Management
+- Security Ratings
+- Governance Risk Compliance
 - Infrastructure SaaS
 apis: []
 maintainers:
